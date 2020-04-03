@@ -1,6 +1,6 @@
 js版本切换
 
-### 武汉肺炎病患数据的 Bitbar 插件
+### COVID-19数据的 Bitbar 插件
 
 <img src="https://i.loli.net/2020/02/04/fJZU5cGgnj84QBv.png" alt="长这样" width="500">
 
