@@ -11,8 +11,8 @@ js版本切换
 
 #### 如何安装插件
 - 在电脑上打开 Bitbar，下载文件，change plugin folder 为 wuhan文件夹
-- 安装依赖，在wuhan-virus-bitbar-plugin 文件打开终端,  ```npm install```
-- 在终端授权 chmod 777 wuhan.10s.js
+- 安装依赖，在covid19-virus-bitbar-plugin 文件打开终端,  ```npm install```
+- 在终端授权 chmod 777 covid19.10s.js
 - 在状态栏中选中 Bitbar 的图标，点击刷新即可
 
 ---
@@ -32,11 +32,11 @@ js版本切换
 #### 一些客制化的小功能
 
 **刷新时间**
-- 默认是 10 秒刷新一次。如果想修改成 1 小时刷新一次，把文件名中 `wuhan.10s.js` 改成 `wuhan.1h.js` 即可。
+- 默认是 10 秒刷新一次。如果想修改成 1 小时刷新一次，把文件名中 `covid19.10s.js` 改成 `covid19.1h.js` 即可。
 
 **展示的省份**
 - 默认展示确认患病人数最多的五个省份
-- 可以打开 `wuhan.10s.js`，在 `targetProvinceName` 中填入你想看的省份的名字
+- 可以打开 `covid19.10s.js`，在 `targetProvinceName` 中填入你想看的省份的名字
 
 ---
 
